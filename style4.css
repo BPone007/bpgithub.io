@@ -1,0 +1,24 @@
+body{
+    font-family: "advent pro",sans-serif;
+    padding: 0;
+    margin: 0%;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+h2{
+    text-transform: uppercase;
+    text-align: justify;
+    padding-top: 3opx;
+    font-size: 2em;
+}
+/* ****NAVBAR**** */
+nav{
+    overflow: visible;
+    background-color: red;
+    position: fixed;
+}
